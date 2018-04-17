@@ -1,1 +1,3 @@
-# js-environment
+# JS-Environment
+
+Basic JavaScript Environment Config
